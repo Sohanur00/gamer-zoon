@@ -1,0 +1,22 @@
+.nav-container{
+
+border: 1px solid red;
+
+width: 1920px;
+height: 130px;
+}
+
+
+.logo-container{
+border: 1px solid antiquewhite;
+display: flex;
+
+
+}
+
+.nav-item-container{
+
+border: 1px solid aquamarine;
+
+
+}
