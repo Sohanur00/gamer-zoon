@@ -1,6 +1,6 @@
 body {
     width: 1920px;
-    height: 5927px;
+  
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -256,7 +256,7 @@ padding-top: 16px;
 }
 
 .games-store{
-
+margin-left:240px ;
 display: flex;
 gap: 24px;
 
@@ -277,6 +277,122 @@ gap: 24px;
 }
 
 .content{
+display: flex;
+margin-top: 240px; 
 
-    display: flex;
 }
+.content-desk{
+margin-top: 250px;
+    margin-left: 200px;
+}
+
+.Play{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+
+.games-desk{
+    color: #534C64;
+    width: 353px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.content-img{
+gap:0px ;
+padding-left: 400px;
+width: 634.833px;
+height: 650px;
+border-radius: 8px;
+
+}
+
+.content-img2{
+   
+    border-radius: 8px;
+    border: 10px solid #FFF;
+    
+margin-top: -200px;
+
+  width: 318px;
+height: 365px;
+
+
+}
+
+
+.icon{
+margin-top: 100px;
+    width: 1920px;
+    height: 427px;
+background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+}
+
+.all-img{
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 300px;
+  padding-top: 20px;
+  border-radius: 50px;
+background: #FFF;
+}
+
+.img-line{
+    border-radius: 50px;
+    background: #FFF;
+    display: flex;
+    align-items: center;
+ margin-left: 300px;
+ justify-content: space-around;
+ margin-right:300px ;
+ margin-top: 80px;
+}
+
+
+/* ?footer */
+
+footer{
+    width: 1920px;
+    height: 636px;
+    background: #0B0223;
+    color: white;
+
+}
+
+
+.logo-container2{
+display: flex;
+justify-content: center;
+padding-top: 150px;
+font-size: 45px;
+
+}
+.p{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.footer2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.last-p{
+
+ display: flex;
+ justify-content: center;
+
+ margin-top: 60px;
+}
+
